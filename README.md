@@ -10,8 +10,6 @@ This application is a dynamic inventory management tool that allows users to sea
 
 The interface is designed for ease of use, featuring a vibrant color scheme and a responsive layout that adapts to various screen sizes, ensuring an optimal user experience across devices.
 
+## Skills 🐟
 
-
-
-
-
+Next.js, React, Firebase, GCP, Vercel
